@@ -2,3 +2,4 @@
 
 Gatunek: Mrówkożer workowaty
 Występowanie: Australia
+Pożywienie: Termity
